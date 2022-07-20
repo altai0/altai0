@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 <p align="center">
-  <img width="100%" height="300" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-953.gif">
+  <img width="70%" height="300" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-953.gif">
 
 </p>
 <!--

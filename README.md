@@ -1,6 +1,8 @@
-https://www.icegif.com/wp-content/uploads/2022/01/icegif-953.gif
+
+
 ### Hi there 👋
 
+![Alt Text](https://www.icegif.com/wp-content/uploads/2022/01/icegif-953.gif)
 <!--
 **altai0/altai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+⚡ Telegram Bot to track node activity : https://t.me/MassaHelperBot  
+⚡ Setting up a Massa node             : https://github.com/altai0/massa-node-script  
+⚡ My Medium                           : https://medium.com/@altai0
+
 <!--
 **altai0/altai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

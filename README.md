@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-https://bestanimations.com/media/mountains/1739259211amazing-clouds-mountain-range-gif.gif
+![Alt Text](https://bestanimations.com/media/mountains/1739259211amazing-clouds-mountain-range-gif.gif)
 
 <!--
 **altai0/altai0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

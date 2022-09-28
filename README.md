@@ -1,4 +1,4 @@
 
 
-👋 Hi, I’m altai
-👀 I’m interested in Python, Javascript and Rust
+👋 Hi, I’m altai  
+👀 I’m interested in Python, Javascript(react,react-native)

@@ -1,4 +1,4 @@
 
 
 👋 Hi, I’m altai  
-👀 I’m interested in Python, Javascript, Solidity, Rust
+👀 I’m interested in Solidity, Rust, Python, Javascript
